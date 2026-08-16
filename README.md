@@ -49,4 +49,4 @@ China2MarketAI/
 ```
 
 ## Developed By
-[Your Name] | TY Project | 2024
+Durva Sagar Ambre | TY Project | 2024
