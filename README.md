@@ -1,4 +1,4 @@
-# 🇨🇳 China2Market AI
+# China2Market 
 ### AI-Powered Import Export Supply Chain Analytics Platform
 
 Built for Maharashtra-based importers sourcing from Chinese suppliers.
